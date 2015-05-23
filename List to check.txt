@@ -1,0 +1,41 @@
+leetcode 
+
+lintcode
+
+cc150
+
+DsAlgo
+
+geeksforgeeks
+
+
+
+System design
+
+对于0基础的同学们 下面的资料可以按顺序开始看
+1. http://www.hiredintech.com/app#system-design
+这是一个专门准备面试的网站 你只用关心system design部分 有很多的link后面会重复提到 建议看完至少一遍
+
+2. https://www.youtube.com/watch?v=-W9F__D3oY4
+非常非常好的入门资料 建议看3遍以上！
+这是1里面提到的资料 是Harvard web app课的最后一节 讲scalability 里面会讲到很多基础概念比如Vertical scaling, Horizontal scaling, Caching, Load balancing,Database replication, Database partitioning 还会提到很多基本思想比如avoid single point of failure
+再强调一遍 非常好的资料！
+
+3. http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones
+1里面提到的 Scalability for Dummies 还算不错 可以看一遍 知道基本思想
+
+
+我的System Design总结
+http://www.mitbbs.com/article_t/JobHunting/32777529.html
+
+
+https://www.youtube.com/watch?v= ... jxp0fmqEv4tXMcl5xww
+
+
+oodesign.com
+
+sourcemaking.com
+
+
+fb system design talk
+http://www.infoq.com/presentations/Scale-at-Facebook
