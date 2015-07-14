@@ -1,0 +1,41 @@
+1.把数组里面所有非零数移到左边，返回非零的个数。
+2. search in rotated array
+3. search in rotated array II
+4.meeting room 1 & 2
+5. Strstr ＋时间复杂度  [Sol: Brute Force]
+6. 电话号码题
+7. 1代表已经染色，0代表没有染色。
+完成一个函数
+输入：矩阵a，整数x， 整数y
+输出: 
+返回一个矩阵，为以(x,y)点（0-based）为开始点的染色结果，将其周围区域染色，直到遇到已经染色的位置或边界为止。
+若(x,y)已经染色则直接返回。注意：只能向上下左右四个方向染色。
+输入样例：
+111111
+111001
+100110
+
+
+1.print a circle.Followup: how to optimize.
+2.implement write toa socket from a file. void write2socket(Socket sk, String file_name), gievenAPIs such like int sk.write(char[] buff, int offset, int size). sk.write cannotgurranteen how many bytes it can write each time and will return a int tellinghow many bytes have been written. offset is the starting pos of data and sizeis the num of bytes you want to write.
+
+
+3.设计题 设计一个网络爬虫
+4.regax match（leetcode）
+5.read4 ii   read4k
+
+
+
+1.求二叉树所有从根开始到叶子的所有路径和
+不能用递归，完成以上题目。
+2.给一个0 1 矩阵，连在一起的1算做岛。求问岛的个数
+11001
+10011
+
+这就是2个岛。[size=13.3333330154419px]3.
+给定matrix，只有0和1，求1的连通size，连通只算上下左右，不算对角线。比如
+0 1 0 0 1
+1 1 1 0 0
+1 0 0 0 1
+0 0 0 0 1 
+4.. find distance between two nodes in abinary tree

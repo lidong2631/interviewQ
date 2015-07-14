@@ -1,0 +1,7 @@
+1. Points on a plane
+让写两个函数
+（1）add Point
+（2）Find pth nearest to a given point"
+解法就是用hashmap把point和point到target之间距离存一下，然后quickselect
+
+2. palindrome

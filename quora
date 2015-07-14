@@ -1,0 +1,4 @@
+1. 实现  strstr， 我就是用brute force写的
+2. validateBST， 我用cc150上的解法
+3. 橄榄球，可以得分 2 3 7  给n看有几种组合，order没有关系， 譬如 5＝2＋3 算一种。 我用coin change的解法做的
+其他还聊了一些linux的基本命令，是不是知道什么sort uniq命令啥的； 在browser输入url后，都发生了什么， 直到网页显示
