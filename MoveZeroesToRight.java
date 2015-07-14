@@ -1,3 +1,4 @@
+
 From DsAlgo
 
 http://www.dsalgo.com/2013/03/move-zeros-to-right-with-minimum-swap.html
@@ -30,5 +31,4 @@ public class MoveZeroesToRight {
 		}
 	}
 }
-
 O(n) double pointers
